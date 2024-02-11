@@ -261,6 +261,7 @@
                 android:src="@drawable/ic_delete"
                 android:background="@color/butonColor"
                 android:layout_marginLeft="5dp"
+                android:contentDescription="icon delete"
                 android:textColor="@color/white"
                 android:layout_width="0dp"
                 android:layout_weight="1"
