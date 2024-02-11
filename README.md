@@ -17,4 +17,4 @@ Este é um aplicativo simples de calculadora de estudo desenvolvido em Kotlin, u
 1. Faça o download do código-fonte ou clone o repositório para o seu ambiente de desenvolvimento.
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-de-estudo.git
+git clone https://github.com/MatheusMed/calculadora.git
