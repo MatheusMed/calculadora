@@ -10,7 +10,14 @@ Este é um aplicativo simples de calculadora de estudo desenvolvido em Kotlin, u
 
 ## Capturas de Tela
 
-*Inserir capturas de tela do aplicativo em ação aqui*
+<img src="https://github.com/MatheusMed/calculadora/assets/42242067/214e5d68-5e29-4f0c-ac82-f4c2f3d0cd5b"  height="500">
+
+<img src="https://github.com/MatheusMed/calculadora/assets/42242067/e9de815c-204a-4ed9-9210-30da39ae0d0f"  height="500">
+
+<img src="https://github.com/MatheusMed/calculadora/assets/42242067/e200c7a6-5da6-4229-b7c8-ea779f2aeaea"  height="500">
+
+[Screen_recording_20240211_082903.webm](https://github.com/MatheusMed/calculadora/assets/42242067/371baa83-d235-4273-ab42-da3a8ffcdfe1)
+
 
 ## Como Usar
 
